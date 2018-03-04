@@ -27,71 +27,7 @@ footer.bd-footer.text-muted {
  }
 
  
- .wrapper {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
- 
-  }
-  
-  .contact-card {
-    margin: 25px;
-    flex: 1 1 100%;
-    max-width: 820px;
-  }
-  
-  .contact-card > .mdl-card__supporting-text > .mdl-list {
-    margin-top: 0;
-    padding-top: 0;
-  }
-  
-  .contact-card > .mdl-card__title {
-    height: 216px;
-    color: #fff;
-    background:
-      url('https://images.unsplash.com/photo-1425321395722-b1dd54a97cf3?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=3c893092e33dfbddde6bbd94f5165da7&auto=format&fit=crop&w=750&q=80') no-repeat center center;
-    background-size: cover;
-    position: relative;
-  }
-  
-  .contact-card > .mdl-card__title > .mdl-card__title-text {
-    font-size: 32px;
-    margin-left: 16px;
-  }
-  
-  .contact-card > .mdl-card__title > .mdl-button--fab {
-    position: absolute;
-    right: 16px;
-    bottom: -25px;
-    overflow: hidden;
-  }
-  
-  .contact-card > .mdl-card__menu {
-    color: #fff;
-  }
-  
-  @media (min-width: 720px) {
-    .contact-card > .mdl-card__title {
-      height: 360px;
-    }
-  
-    .contact-card > .mdl-card__title > .mdl-card__title-text {
-      font-size: 54px;
-      margin-bottom: 16px;
-      margin-left: 80px;
-    }
-    
-    .contact-card > .mdl-card__supporting-text {
-      padding: 32px;
-    }
-  }
 
-body{
-    background-color: #b3d4fc !important;
-}
-
-footer{
-    background-color: #b3d4fc !important;
-
-}
+  
+      /* url('https://images.unsplash.com/photo-1425321395722-b1dd54a97cf3?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=3c893092e33dfbddde6bbd94f5165da7&auto=format&fit=crop&w=750&q=80') no-repeat center center; */
+   
