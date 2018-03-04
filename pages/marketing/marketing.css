@@ -1,6 +1,6 @@
-
 .bd-footer {
     text-align: left;
+    
 }
 
 footer.bd-footer.text-muted {
@@ -17,14 +17,11 @@ footer.bd-footer.text-muted {
 .bd-footer p {
     margin-bottom: 0;
 }
-
-.bd-footer a {
-    color: rgb(94, 123, 202);
-}
-
-footer {
+ .bd-footer a{
+     color: rgb(94, 123, 202);
+    
+ }
+ footer{
     /* background-color: lightgray; */
-}
+ }
 
-
-/* url('https://images.unsplash.com/photo-1425321395722-b1dd54a97cf3?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=3c893092e33dfbddde6bbd94f5165da7&auto=format&fit=crop&w=750&q=80') no-repeat center center; */
