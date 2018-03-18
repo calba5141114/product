@@ -1,6 +1,5 @@
 .bd-footer {
     text-align: left;
-    
 }
 
 footer.bd-footer.text-muted {
@@ -17,15 +16,13 @@ footer.bd-footer.text-muted {
 .bd-footer p {
     margin-bottom: 0;
 }
- .bd-footer a{
-     color: rgb(94, 123, 202);
-    
- }
- footer{
-    /* background-color: lightgray; */
- }
 
-
-.blur{
- 
+.bd-footer a {
+    color: rgb(94, 123, 202);
 }
+
+footer {
+    /* background-color: lightgray; */
+}
+
+.blur {}
