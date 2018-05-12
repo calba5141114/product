@@ -1,4 +1,5 @@
+//jshint esversion:6
 
-
-
-setTimeout(function(){document.getElementById('LinkID').click();},3000);
+setTimeout(() => {
+    document.getElementById('LinkID').click();
+}, 3000);
